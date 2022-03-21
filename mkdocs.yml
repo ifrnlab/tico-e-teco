@@ -1,0 +1,16 @@
+site_name: Tico e Teco
+site_author: Jurandy Soares
+site_description: Tico e Teco
+site_dir: /var/www/html/tico
+
+repo_url: https://github.com/ifrnlab/tico-e-teco
+edit_uri: "edit/main/docs"
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: green
+
+nav:
+  - Início: index.md
